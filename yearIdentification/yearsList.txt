@@ -41,7 +41,7 @@ mu a-ra2 2(disz)-kam
 mu a-ra2 2(disz)-kam <sza>-asz-szu2-ru{ki} ba-hul 
 mu a-ra2 2(disz)-kam [sza-asz-ru]-um{ki} ba-hul 
 mu a-ra2 2(disz)-kam sza#-asz-szu2-ru-um{ki} ba-hul 
-mu a-ra2 2(disz)-kam sza-[...] 
+mu a-ra2 2(disz)-akm sza-[...] 
 mu a-ra2 2(disz)-kam sza-asz 
 mu a-ra2 2(disz)-kam sza-asz-ru 
 mu a-ra2 2(disz)-kam sza-asz-ru ba-hul 
@@ -104,12 +104,12 @@ mu didli siki-ba
 mu diri i3-dub-ba-ke4 
 mu dug szakkan-sze3 
 mu e2 {d}szara2 ba-du3 
-mu e2 |PU3.SZA| 
-mu e2 |PU3.SZA|-da-gan 
-mu e2 |PU3.SZA|-da-gan ba-du3 
-mu e2 |PU3.SZA|-isz-{d}da-gan 
-mu e2 |PU3.SZA|-isz-{d}da-gan ba-du3 
-mu e2 |PU3.SZA|-{d}da-gan 
+	mu e2 |PU3.SZA| 
+	mu e2 |PU3.SZA|-da-gan 
+	mu e2 |PU3.SZA|-da-gan ba-du3 
+	mu e2 |PU3.SZA|-isz-{d}da-gan 
+	mu e2 |PU3.SZA|-isz-{d}da-gan ba-du3 
+	mu e2 |PU3.SZA|-{d}da-gan 
 mu en [...] unu#{ki} masz2-e [ba]-pa3 
 mu en eridu[{ki} ba-hun] 
 mu en eridu{ki} 
@@ -151,26 +151,26 @@ mu en-mah-gal-an-na en {d}nanna ba-hun
 mu en-mah-gal-sze3 
 mu en-na-sze3 
 mu en-te-ta 1(gesz2) gur-ta diri-ga la-ba-zi-ga-sze3 
-mu en-unu6 {d}inanna ba-hun-ta 
-mu en-unu6#-[gal {d}inanna ba-hun] 
-mu en-unu6#-gal# {d}inanna ba-hun 
-mu en-unu6-<gal> {d}inanna ba-hun 
-mu en-unu6-gal 
-mu en-unu6-gal an-na ba-hun-ga2# 
-mu en-unu6-gal an-na en {d}inanna ba-hun 
-mu en-unu6-gal u3 mu sza-asz-ru{ki} 
-mu en-unu6-gal {d}inanna 
-mu en-unu6-gal {d}inanna [ba]-hun#  
-mu en-unu6-gal {d}inanna ba-hun 
-mu en-unu6-gal {d}inanna ba-hun-ga2-ta 
-mu en-unu6-gal {d}inanna ba-hun-ta 
-mu en-unu6-gal {d}inanna en {d}inanna ba-hun 
-mu en-unu6-gal {d}inanna u3 mu sza-asz-ru{ki} ba-hul 
-mu en-unu6-gal {d}inanna unu{ki} ba-hun 
-mu en-unu6-gal {d}inanna! 
-mu en-unu6-gal {d}inanna-ke4 ba-ab-IL2? 
-mu en-unu6-gal {d}nanna en {d}inanna ba-hun 
-mu en-unu6-gal-ta 
+	mu en-unu6 {d}inanna ba-hun-ta 
+	mu en-unu6#-[gal {d}inanna ba-hun] 
+	mu en-unu6#-gal# {d}inanna ba-hun 
+	mu en-unu6-<gal> {d}inanna ba-hun 
+	mu en-unu6-gal 
+	mu en-unu6-gal an-na ba-hun-ga2# 
+	mu en-unu6-gal an-na en {d}inanna ba-hun 
+	mu en-unu6-gal u3 mu sza-asz-ru{ki} 
+	mu en-unu6-gal {d}inanna 
+	mu en-unu6-gal {d}inanna [ba]-hun#  
+	mu en-unu6-gal {d}inanna ba-hun 
+	mu en-unu6-gal {d}inanna ba-hun-ga2-ta 
+	mu en-unu6-gal {d}inanna ba-hun-ta 
+	mu en-unu6-gal {d}inanna en {d}inanna ba-hun 
+	mu en-unu6-gal {d}inanna u3 mu sza-asz-ru{ki} ba-hul 
+	mu en-unu6-gal {d}inanna unu{ki} ba-hun 
+	mu en-unu6-gal {d}inanna! 
+	mu en-unu6-gal {d}inanna-ke4 ba-ab-IL2? 
+	mu en-unu6-gal {d}nanna en {d}inanna ba-hun 
+	mu en-unu6-gal-ta 
 mu ensi2 umma{ki} 
 mu ensi2 umma{ki}-sze3 
 mu ensi2#-[sze3] 
@@ -251,8 +251,8 @@ mu lugal-bi ba-pa3
 mu lugal-bi i3-pa 
 mu lugal-bi i3-pa3 
 mu lugal-bi in-pa3 
-mu lugal-e sza-asz-ru-um{ki} mu-hul 
-mu lugal-e sza-su-ru-um{ki} mu-hul# 
+	mu lugal-e sza-asz-ru-um{ki} mu-hul 
+	mu lugal-e sza-su-ru-um{ki} mu-hul# 
 mu lugal-e2-mah-e-sze3 
 mu lugal-inim-gi-na-sze3 
 mu lugal-ka ba-a-x-gi-a-x-esz 
@@ -287,205 +287,205 @@ mu si-mu-ru-um{ki} lu-lu-bum2{ki} a-ra2 1(u) la2 1(asz@45)-kam-asz ba-hul
 mu si-mu-ru-um{ki} lu-lu-bu{ki} 
 mu si-mu-ru-um{ki} lu-lu-bu{ki} a-ra2 1(u) la2 1(disz)-kam-asz ba-hul 
 mu si-mu-ru-um{ki} u3 lu-lu-bu{ki} a-ra2 1(u)# la2# 1(disz)#-kam-asz ba-hul 
-mu sza!-asz-ru! 
-mu sza!-asz-ru-um{ki} ba-hul 
-mu sza!-asz-ru{ki} 
-mu sza!-asz-ru{ki} ba-hul 
-mu sza#-[asz-ru-um{ki} ba-hul] 
-mu sza#-[asz]-ru-um[{ki} ...] 
-mu sza#-[asz]-ru-um[{ki}] ba-hul 
-mu sza#-[asz]-ru{ki} 
-mu sza#-[asz]-szu2#-ru{ki} ba-[hul] 
-mu sza#-asz#-ru{ki#} [ba-hul] 
-mu sza#-asz#-ru{ki} ba#-hul 
-mu sza#-asz-ru#{ki#} ba-hul# 
-mu sza#-asz-ru-um{ki} ba-hul 
-mu sza#-asz-ru{ki} ba-hul 
-mu sza#-asz-szu2-ru-[um{ki} ba-hul] 
-mu sza#?-[asz-rum{ki} ba-hul?] 
-mu sza-<<sza>>-asz-szu2-ru-um{ki} ba-hul 
-mu sza-<asz>-ru-um ba-hul 
-mu sza-<asz>-ru-um#[{ki}] ba-hul 
-mu sza-<asz>-ru-um{ki} a-ra2 2(disz)-kam ba-hul 
-mu sza-<asz>-ru-um{ki} ba-hul 
-mu sza-<asz>-ru{ki}-ta 
-mu sza-[asz-ru-um{ki}] ba-[hul] 
-mu sza-[asz-ru]{ki} ba-hul 
-mu sza-[asz-ru{ki} ba-hul] 
-mu sza-[asz-ru{ki}] ba-hul 
-mu sza-[asz-ru{ki}] ba-hul# 
-mu sza-[asz]-ru#{ki} ba-hul 
-mu sza-[asz]-ru-um{ki} 
-mu sza-[asz]-ru{ki} ba-hul 
-mu sza-asz#-ru#-um{ki} ba-hul# 
-mu sza-asz-[ru-um]{ki} ba-hul 
-mu sza-asz-[ru-um{ki} ba-hul] 
-mu sza-asz-[ru-um{ki}] ba-[hul] 
-mu sza-asz-[ru]-um ba-hul 
-mu sza-asz-[ru{ki} ba-hul] 
-mu sza-asz-[ru{ki}] ba-hul 
-mu sza-asz-ru asz ba-hul 
-mu sza-asz-ru ba-hul 
-mu sza-asz-ru!?-um{ki} ba-hul 
-mu sza-asz-ru!{ki} ba-hul 
-mu sza-asz-ru#-um#{ki} [ba-hul] 
-mu sza-asz-ru#-um{ki} a-ra2 2(disz)#-kam# ba-hul 
-mu sza-asz-ru#-um{ki} ba#-hul# 
-mu sza-asz-ru#-um{ki} ba-hul 
-mu sza-asz-ru#[{ki} ba-hul] 
-mu sza-asz-ru#[{ki}] ba-hul 
-mu sza-asz-ru#[{ki}] ba-hul# 
-mu sza-asz-ru#{ki#} ba#-hul# 
-mu sza-asz-ru#{ki} ba-hul 
-mu sza-asz-ru-[um]{ki} ba-hul 
-mu sza-asz-ru-[um{ki} ba-hul] 
-mu sza-asz-ru-[um{ki}] 
-mu sza-asz-ru-[um{ki}] ba-hul 
-mu sza-asz-ru-um 
-mu sza-asz-ru-um a-ra2 2(disz)-kam ba-hul 
-mu sza-asz-ru-um ba-<<ba>>-hul 
-mu sza-asz-ru-um ba-hul 
-mu sza-asz-ru-um#[{ki}] ba-[hul] 
-mu sza-asz-ru-um#{ki} ba-hul 
-mu sza-asz-ru-um-ru#-um#{ki} ba-hul 
-mu sza-asz-ru-um[{ki}] ba#-hul 
-mu sza-asz-ru-um[{ki}] ba-hul 
-mu sza-asz-ru-um{ki#} [ba-hul] 
-mu sza-asz-ru-um{ki#} [ba]-hul# 
-mu sza-asz-ru-um{ki#} ba#-[hul] 
-mu sza-asz-ru-um{ki#} ba-a-hul 
-mu sza-asz-ru-um{ki#} ba-hul 
-mu sza-asz-ru-um{ki} 
-mu sza-asz-ru-um{ki} <ba>-hul 
-mu sza-asz-ru-um{ki} [ba]-hul 
-mu sza-asz-ru-um{ki} a-ra2 2(asz@45)-kam ba-hul 
-mu sza-asz-ru-um{ki} a-ra2 2(disz)-kam ba-hul
-mu sza-asz-ru-um{ki} a-ra2 2(disz)-kam ba-hul 
-mu sza-asz-ru-um{ki} ba-hul
-mu sza-asz-ru-um{ki} ba-hul 
-mu sza-asz-ru-um{ki} ba-hul# 
-mu sza-asz-ru-um{ki} ba-hul# [...] 
-mu sza-asz-ru-um{ki} ba-hul-a 
-mu sza-asz-ru-um{ki} ba-hul-sze3 
-mu sza-asz-ru-um{ki} ba-hul-ta 
-mu sza-asz-ru-um{ki} ba-hul? 
-mu sza-asz-ru-um{ki} mu-hul 
-mu sza-asz-ru-um{ki}-sze3 
-mu sza-asz-ru-um{ki}-ta 
-mu sza-asz-ru?-um?{ki} ba-hul 
-mu sza-asz-ru[{ki} ba]-hul 
-mu sza-asz-ru[{ki}] a-ra2 2(disz)-kam# ba#-hul 
-mu sza-asz-ru[{ki}] ba-[hul] 
-mu sza-asz-ru[{ki}] ba-hul 
-mu sza-asz-ru{ki!} ba-hul 
-mu sza-asz-ru{ki#} [ba-hul] 
-mu sza-asz-ru{ki#} ba-hul 
-mu sza-asz-ru{ki#} ba-hul# 
-mu sza-asz-ru{ki}
-mu sza-asz-ru{ki} 
-mu sza-asz-ru{ki} <<ba>> ba-hul 
-mu sza-asz-ru{ki} <<ki>> ba-hul 
-mu sza-asz-ru{ki} [ba-hul-ta] 
-mu sza-asz-ru{ki} [ba-hul] 
-mu sza-asz-ru{ki} [ba]-hul 
-mu sza-asz-ru{ki} [ba]-hul# 
-mu sza-asz-ru{ki} a-ra2 2(disz)-kam [ba]-hul 
-mu sza-asz-ru{ki} a-ra2 2(disz)-kam ba-hul 
-mu sza-asz-ru{ki} ba!-hul 
-mu sza-asz-ru{ki} ba#-[hul] 
-mu sza-asz-ru{ki} ba#-hul 
-mu sza-asz-ru{ki} ba#-hul# 
-mu sza-asz-ru{ki} ba-<<ba>>-hul 
-mu sza-asz-ru{ki} ba-[hul] 
-mu sza-asz-ru{ki} ba-hul
-mu sza-asz-ru{ki} ba-hul 
-mu sza-asz-ru{ki} ba-hul#
-mu sza-asz-ru{ki} ba-hul# 
-mu sza-asz-ru{ki} ba-hul-a 
-mu sza-asz-ru{ki} ba-hul-sze3 
-mu sza-asz-ru{ki} ba-hul-ta 
-mu sza-asz-ru{ki} ba-hul-ta mu en kar-zi-da ba-hun-sze3 
-mu sza-asz-ru{ki} ba-hun 
-mu sza-asz-ru{ki} ba-hun-ta 
-mu sza-asz-ru{ki} hul 
-mu sza-asz-ru{ki} mu!-hul 
-mu sza-asz-ru{ki}-sze3 
-mu sza-asz-ru{ki}-ta iti gu4-ra2-bi2-mu2-mu2 
-mu sza-asz-su-ru-um{ki} [ba-hul] 
-mu sza-asz-szu-ru-um{ki} ba-hul 
-mu sza-asz-szu-ru{ki} ba-hul 
-mu sza-asz-szu2-<ru>-um mu-hul 
-mu sza-asz-szu2-ru mu!-hul 
-mu sza-asz-szu2-ru mu-hul 
-mu sza-asz-szu2-ru#-um#{ki} ba-hul 
-mu sza-asz-szu2-ru-[um]{ki} ba-[hul] 
-mu sza-asz-szu2-ru-um 
-mu sza-asz-szu2-ru-um a-ra2 2(disz)-kam <ba-hul> 
-mu sza-asz-szu2-ru-um a-ra2 2(disz)-kam ba-hul 
-mu sza-asz-szu2-ru-um a-ra2 2(disz)-kam ba-hul# 
-mu sza-asz-szu2-ru-um ba-hul 
-mu sza-asz-szu2-ru-um mu-hul 
-mu sza-asz-szu2-ru-um{ki#} ba-hul 
-mu sza-asz-szu2-ru-um{ki} 
-mu sza-asz-szu2-ru-um{ki} [ba-hul] 
-mu sza-asz-szu2-ru-um{ki} a-ra2 2(asz@45)-kam ba-hul 
-mu sza-asz-szu2-ru-um{ki} a-ra2 2(disz)!-kam ba-hul 
-mu sza-asz-szu2-ru-um{ki} a-ra2 2(disz)-kam ba-hul 
-mu sza-asz-szu2-ru-um{ki} a-ra2 2(disz)-kam ba-hul# 
-mu sza-asz-szu2-ru-um{ki} a-ra2 2(disz)-kam-[ma] ba-hul 
-mu sza-asz-szu2-ru-um{ki} a-ra2 2(disz)-kam-asz mu!-hul 
-mu sza-asz-szu2-ru-um{ki} a-ra2# [2(disz)-kam-asz ba-hul] 
-mu sza-asz-szu2-ru-um{ki} ba#-hul 
-mu sza-asz-szu2-ru-um{ki} ba-hul
-mu sza-asz-szu2-ru-um{ki} ba-hul 
-mu sza-asz-szu2-ru-um{ki} ba-hul# 
-mu sza-asz-szu2-ru-um{ki} ba-hun 
-mu sza-asz-szu2-ru-um{ki} mu!-hul 
-mu sza-asz-szu2-ru-um{ki} mu-hul 
-mu sza-asz-szu2-ru{ki#} ba-hul 
-mu sza-asz-szu2-ru{ki} 
-mu sza-asz-szu2-ru{ki} <<ki>> ba-hul 
-mu sza-asz-szu2-ru{ki} a-ra2 2(disz)-kam ba-hul 
-mu sza-asz-szu2-ru{ki} ba-hul 
-mu sza-asz-szu2-ru{ki} ba-hul# 
-mu sza-asz-szu2-ru{ki}-sze3 
-mu sza-asz-szu2-um{ki} ba-hul 
-mu sza-asz-szu2?-ru-um{ki} ba-hul 
-mu sza-asz-szu4-ru-um{ki} ba-hul 
-mu sza-asz2-ru ba-hul 
-mu sza-asz2-ru{ki} ba!-hul 
-mu sza-asz?-ru#?-um{ki#} ba#-hul# 
-mu sza-asz?-ru{ki} ba-hul 
-mu sza-asz{ki} ba-hul 
+	mu sza!-asz-ru! 
+	mu sza!-asz-ru-um{ki} ba-hul 
+	mu sza!-asz-ru{ki} 
+	mu sza!-asz-ru{ki} ba-hul 
+	mu sza#-[asz-ru-um{ki} ba-hul] 
+	mu sza#-[asz]-ru-um[{ki} ...] 
+	mu sza#-[asz]-ru-um[{ki}] ba-hul 
+	mu sza#-[asz]-ru{ki} 
+	mu sza#-[asz]-szu2#-ru{ki} ba-[hul] 
+	mu sza#-asz#-ru{ki#} [ba-hul] 
+	mu sza#-asz#-ru{ki} ba#-hul 
+	mu sza#-asz-ru#{ki#} ba-hul# 
+	mu sza#-asz-ru-um{ki} ba-hul 
+	mu sza#-asz-ru{ki} ba-hul 
+	mu sza#-asz-szu2-ru-[um{ki} ba-hul] 
+	mu sza#?-[asz-rum{ki} ba-hul?] 
+	mu sza-<<sza>>-asz-szu2-ru-um{ki} ba-hul 
+	mu sza-<asz>-ru-um ba-hul 
+	mu sza-<asz>-ru-um#[{ki}] ba-hul 
+	mu sza-<asz>-ru-um{ki} a-ra2 2(disz)-kam ba-hul 
+	mu sza-<asz>-ru-um{ki} ba-hul 
+	mu sza-<asz>-ru{ki}-ta 
+	mu sza-[asz-ru-um{ki}] ba-[hul] 
+	mu sza-[asz-ru]{ki} ba-hul 
+	mu sza-[asz-ru{ki} ba-hul] 
+	mu sza-[asz-ru{ki}] ba-hul 
+	mu sza-[asz-ru{ki}] ba-hul# 
+	mu sza-[asz]-ru#{ki} ba-hul 
+	mu sza-[asz]-ru-um{ki} 
+	mu sza-[asz]-ru{ki} ba-hul 
+	mu sza-asz#-ru#-um{ki} ba-hul# 
+	mu sza-asz-[ru-um]{ki} ba-hul 
+	mu sza-asz-[ru-um{ki} ba-hul] 
+	mu sza-asz-[ru-um{ki}] ba-[hul] 
+	mu sza-asz-[ru]-um ba-hul 
+	mu sza-asz-[ru{ki} ba-hul] 
+	mu sza-asz-[ru{ki}] ba-hul 
+	mu sza-asz-ru asz ba-hul 
+	mu sza-asz-ru ba-hul 
+	mu sza-asz-ru!?-um{ki} ba-hul 
+	mu sza-asz-ru!{ki} ba-hul 
+	mu sza-asz-ru#-um#{ki} [ba-hul] 
+	mu sza-asz-ru#-um{ki} a-ra2 2(disz)#-kam# ba-hul 
+	mu sza-asz-ru#-um{ki} ba#-hul# 
+	mu sza-asz-ru#-um{ki} ba-hul 
+	mu sza-asz-ru#[{ki} ba-hul] 
+	mu sza-asz-ru#[{ki}] ba-hul 
+	mu sza-asz-ru#[{ki}] ba-hul# 
+	mu sza-asz-ru#{ki#} ba#-hul# 
+	mu sza-asz-ru#{ki} ba-hul 
+	mu sza-asz-ru-[um]{ki} ba-hul 
+	mu sza-asz-ru-[um{ki} ba-hul] 
+	mu sza-asz-ru-[um{ki}] 
+	mu sza-asz-ru-[um{ki}] ba-hul 
+	mu sza-asz-ru-um 
+	mu sza-asz-ru-um a-ra2 2(disz)-kam ba-hul 
+	mu sza-asz-ru-um ba-<<ba>>-hul 
+	mu sza-asz-ru-um ba-hul 
+	mu sza-asz-ru-um#[{ki}] ba-[hul] 
+	mu sza-asz-ru-um#{ki} ba-hul 
+	mu sza-asz-ru-um-ru#-um#{ki} ba-hul 
+	mu sza-asz-ru-um[{ki}] ba#-hul 
+	mu sza-asz-ru-um[{ki}] ba-hul 
+	mu sza-asz-ru-um{ki#} [ba-hul] 
+	mu sza-asz-ru-um{ki#} [ba]-hul# 
+	mu sza-asz-ru-um{ki#} ba#-[hul] 
+	mu sza-asz-ru-um{ki#} ba-a-hul 
+	mu sza-asz-ru-um{ki#} ba-hul 
+	mu sza-asz-ru-um{ki} 
+	mu sza-asz-ru-um{ki} <ba>-hul 
+	mu sza-asz-ru-um{ki} [ba]-hul 
+	mu sza-asz-ru-um{ki} a-ra2 2(asz@45)-kam ba-hul 
+	mu sza-asz-ru-um{ki} a-ra2 2(disz)-kam ba-hul
+	mu sza-asz-ru-um{ki} a-ra2 2(disz)-kam ba-hul 
+	mu sza-asz-ru-um{ki} ba-hul
+	mu sza-asz-ru-um{ki} ba-hul 
+	mu sza-asz-ru-um{ki} ba-hul# 
+	mu sza-asz-ru-um{ki} ba-hul# [...] 
+	mu sza-asz-ru-um{ki} ba-hul-a 
+	mu sza-asz-ru-um{ki} ba-hul-sze3 
+	mu sza-asz-ru-um{ki} ba-hul-ta 
+	mu sza-asz-ru-um{ki} ba-hul? 
+	mu sza-asz-ru-um{ki} mu-hul 
+	mu sza-asz-ru-um{ki}-sze3 
+	mu sza-asz-ru-um{ki}-ta 
+	mu sza-asz-ru?-um?{ki} ba-hul 
+	mu sza-asz-ru[{ki} ba]-hul 
+	mu sza-asz-ru[{ki}] a-ra2 2(disz)-kam# ba#-hul 
+	mu sza-asz-ru[{ki}] ba-[hul] 
+	mu sza-asz-ru[{ki}] ba-hul 
+	mu sza-asz-ru{ki!} ba-hul 
+	mu sza-asz-ru{ki#} [ba-hul] 
+	mu sza-asz-ru{ki#} ba-hul 
+	mu sza-asz-ru{ki#} ba-hul# 
+	mu sza-asz-ru{ki}
+	mu sza-asz-ru{ki} 
+	mu sza-asz-ru{ki} <<ba>> ba-hul 
+	mu sza-asz-ru{ki} <<ki>> ba-hul 
+	mu sza-asz-ru{ki} [ba-hul-ta] 
+	mu sza-asz-ru{ki} [ba-hul] 
+	mu sza-asz-ru{ki} [ba]-hul 
+	mu sza-asz-ru{ki} [ba]-hul# 
+	mu sza-asz-ru{ki} a-ra2 2(disz)-kam [ba]-hul 
+	mu sza-asz-ru{ki} a-ra2 2(disz)-kam ba-hul 
+	mu sza-asz-ru{ki} ba!-hul 
+	mu sza-asz-ru{ki} ba#-[hul] 
+	mu sza-asz-ru{ki} ba#-hul 
+	mu sza-asz-ru{ki} ba#-hul# 
+	mu sza-asz-ru{ki} ba-<<ba>>-hul 
+	mu sza-asz-ru{ki} ba-[hul] 
+	mu sza-asz-ru{ki} ba-hul
+	mu sza-asz-ru{ki} ba-hul 
+	mu sza-asz-ru{ki} ba-hul#
+	mu sza-asz-ru{ki} ba-hul# 
+	mu sza-asz-ru{ki} ba-hul-a 
+	mu sza-asz-ru{ki} ba-hul-sze3 
+	mu sza-asz-ru{ki} ba-hul-ta 
+	mu sza-asz-ru{ki} ba-hul-ta mu en kar-zi-da ba-hun-sze3 
+	mu sza-asz-ru{ki} ba-hun 
+	mu sza-asz-ru{ki} ba-hun-ta 
+	mu sza-asz-ru{ki} hul 
+	mu sza-asz-ru{ki} mu!-hul 
+	mu sza-asz-ru{ki}-sze3 
+	mu sza-asz-ru{ki}-ta iti gu4-ra2-bi2-mu2-mu2 
+	mu sza-asz-su-ru-um{ki} [ba-hul] 
+	mu sza-asz-szu-ru-um{ki} ba-hul 
+	mu sza-asz-szu-ru{ki} ba-hul 
+	mu sza-asz-szu2-<ru>-um mu-hul 
+	mu sza-asz-szu2-ru mu!-hul 
+	mu sza-asz-szu2-ru mu-hul 
+	mu sza-asz-szu2-ru#-um#{ki} ba-hul 
+	mu sza-asz-szu2-ru-[um]{ki} ba-[hul] 
+	mu sza-asz-szu2-ru-um 
+	mu sza-asz-szu2-ru-um a-ra2 2(disz)-kam <ba-hul> 
+	mu sza-asz-szu2-ru-um a-ra2 2(disz)-kam ba-hul 
+	mu sza-asz-szu2-ru-um a-ra2 2(disz)-kam ba-hul# 
+	mu sza-asz-szu2-ru-um ba-hul 
+	mu sza-asz-szu2-ru-um mu-hul 
+	mu sza-asz-szu2-ru-um{ki#} ba-hul 
+	mu sza-asz-szu2-ru-um{ki} 
+	mu sza-asz-szu2-ru-um{ki} [ba-hul] 
+	mu sza-asz-szu2-ru-um{ki} a-ra2 2(asz@45)-kam ba-hul 
+	mu sza-asz-szu2-ru-um{ki} a-ra2 2(disz)!-kam ba-hul 
+	mu sza-asz-szu2-ru-um{ki} a-ra2 2(disz)-kam ba-hul 
+	mu sza-asz-szu2-ru-um{ki} a-ra2 2(disz)-kam ba-hul# 
+	mu sza-asz-szu2-ru-um{ki} a-ra2 2(disz)-kam-[ma] ba-hul 
+	mu sza-asz-szu2-ru-um{ki} a-ra2 2(disz)-kam-asz mu!-hul 
+	mu sza-asz-szu2-ru-um{ki} a-ra2# [2(disz)-kam-asz ba-hul] 
+	mu sza-asz-szu2-ru-um{ki} ba#-hul 
+	mu sza-asz-szu2-ru-um{ki} ba-hul
+	mu sza-asz-szu2-ru-um{ki} ba-hul 
+	mu sza-asz-szu2-ru-um{ki} ba-hul# 
+	mu sza-asz-szu2-ru-um{ki} ba-hun 
+	mu sza-asz-szu2-ru-um{ki} mu!-hul 
+	mu sza-asz-szu2-ru-um{ki} mu-hul 
+	mu sza-asz-szu2-ru{ki#} ba-hul 
+	mu sza-asz-szu2-ru{ki} 
+	mu sza-asz-szu2-ru{ki} <<ki>> ba-hul 
+	mu sza-asz-szu2-ru{ki} a-ra2 2(disz)-kam ba-hul 
+	mu sza-asz-szu2-ru{ki} ba-hul 
+	mu sza-asz-szu2-ru{ki} ba-hul# 
+	mu sza-asz-szu2-ru{ki}-sze3 
+	mu sza-asz-szu2-um{ki} ba-hul 
+	mu sza-asz-szu2?-ru-um{ki} ba-hul 
+	mu sza-asz-szu4-ru-um{ki} ba-hul 
+	mu sza-asz2-ru ba-hul 
+	mu sza-asz2-ru{ki} ba!-hul 
+	mu sza-asz?-ru#?-um{ki#} ba#-hul# 
+	mu sza-asz?-ru{ki} ba-hul 
+	mu sza-asz{ki} ba-hul 
 mu sza-at-{d}szul-gi dumu-munus lugal-sze3 
-mu sza-ru-um{ki} ba-hul 
-mu sza-su-ru-um{ki} ba-hul 
-mu sza-su-ru{ki} ba-hul 
-mu sza-szu-ru{ki} ba-hul ki-masz-sze3? 
-mu sza-szu2-ru a-ra2 2(disz)-kam ba-hul 
-mu sza-szu2-ru-um{ki} a-ra2 2(disz)-kam ba-hul 
-mu sza-szu2-ru-um{ki} a-ra2 2(disz)-kam-asz ba-hul 
-mu sza-szu2-ru-um{ki} a-ra2 2(disz)-kam-asz mu-hul 
-mu sza-szu2-ru-um{ki} ba-hul 
-mu sza-szu2-ru-um{ki} ba-hul-[ta] 
-mu sza-szu2-ru{ki} [ba]-hul# 
-mu sza-szu2-ru{ki} a-ra2 2(disz)-kam ba-hul 
-mu sza-szu2-ru{ki} ba-a-hul 
-mu sza-szu2-ru{ki} ba-hul 
-mu sza-szu2-ru{ki} ba-hul# 
-mu sza3 [...] 
-mu sza3-asz-ru-[um]{ki} ba-hul# 
-mu sza3-asz-ru-um{ki} ba-[hul] 
-mu sza3-asz-ru-um{ki} ba-hul 
-mu sza3-asz-ru{ki} ba-hul 
-mu sza3-asz-szu2-<ru>-um{ki} a-ra2 2(disz)-kam ba-hul 
-mu sza3-asz-szu2-ru-um{ki} ba-hul 
-mu sza3-asz:szu2-ru-um{ki} ba-hul! 
-mu sza3-szu2-ru{ki} ba-hul 
-mu sza:asz-ru{ki} ba-hul 
-mu sza?-[asz-ru]-um{ki} a-ra2 2(disz)-[kam] ba#-hul 
-mu sza?-asz-ru-um{ki} ba-hul 
-mu sza?-asz-ru{ki} ba-hul 
+	mu sza-ru-um{ki} ba-hul 
+	mu sza-su-ru-um{ki} ba-hul 
+	mu sza-su-ru{ki} ba-hul 
+	mu sza-szu-ru{ki} ba-hul ki-masz-sze3? 
+	mu sza-szu2-ru a-ra2 2(disz)-kam ba-hul 
+	mu sza-szu2-ru-um{ki} a-ra2 2(disz)-kam ba-hul 
+	mu sza-szu2-ru-um{ki} a-ra2 2(disz)-kam-asz ba-hul 
+	mu sza-szu2-ru-um{ki} a-ra2 2(disz)-kam-asz mu-hul 
+	mu sza-szu2-ru-um{ki} ba-hul 
+	mu sza-szu2-ru-um{ki} ba-hul-[ta] 
+	mu sza-szu2-ru{ki} [ba]-hul# 
+	mu sza-szu2-ru{ki} a-ra2 2(disz)-kam ba-hul 
+	mu sza-szu2-ru{ki} ba-a-hul 
+	mu sza-szu2-ru{ki} ba-hul 
+	mu sza-szu2-ru{ki} ba-hul# 
+	mu sza3 [...] 
+	mu sza3-asz-ru-[um]{ki} ba-hul# 
+	mu sza3-asz-ru-um{ki} ba-[hul] 
+	mu sza3-asz-ru-um{ki} ba-hul 
+	mu sza3-asz-ru{ki} ba-hul 
+	mu sza3-asz-szu2-<ru>-um{ki} a-ra2 2(disz)-kam ba-hul 
+	mu sza3-asz-szu2-ru-um{ki} ba-hul 
+	mu sza3-asz:szu2-ru-um{ki} ba-hul! 
+	mu sza3-szu2-ru{ki} ba-hul 
+	mu sza:asz-ru{ki} ba-hul 
+	mu sza?-[asz-ru]-um{ki} a-ra2 2(disz)-[kam] ba#-hul 
+	mu sza?-asz-ru-um{ki} ba-hul 
+	mu sza?-asz-ru{ki} ba-hul 
 mu szagina geszbun2 tusz-sza-ne-sze3 
 mu szagina geszbun2-a tusz-a-ne-sze3# 
 mu sze gurx(|SZE.KIN|)-gurx(|SZE.KIN|)-da sze-bi szub?-ba gurx(|SZE.KIN|)-a-sze3 
@@ -514,7 +514,7 @@ mu ur-{d}szara2 sza13-dub-ba-sze3
 mu ur-{gesz}gigir szabra-sze3 
 mu ur5 nu-szid-da-sze3 
 mu us2#-sa en-unu6-gal {d}inanna# ba-hun 
-mu us2-[sa] e2# |PU3.SZA|-isz-da-gan ba-du3-a mu us2-sa#-a-bi 
+	mu us2-[sa] e2# |PU3.SZA|-isz-da-gan ba-du3-a mu us2-sa#-a-bi 
 mu us2-sa [...] unu6#-gal# {d#}inanna# [...] 
 mu us2-sa [en] {d}inanna [...] 
 mu us2-sa a-ra2 2(asz@45)-kam 
@@ -524,53 +524,53 @@ mu us2-sa an-sza-an{ki} ba-[hul]
 mu us2-sa bad3 ba-du3 
 mu us2-sa bad3 mar-tu ba-du3
 mu us2-sa bad3# [ba]-du3 
-mu us2-sa e2 
-mu us2-sa e2 PU3 mu us2-sa-bi 
-mu us2-sa e2 ba-du-a mu us2-sa-bi 
-mu us2-sa e2 mu us2-sa-a-bi 
-mu us2-sa e2 mu us2-sa-bi 
-mu us2-sa e2 |PU3.SZA| mu us2-sa-a-ba mu us2-sa-a-bi 
-mu us2-sa e2 |PU3.SZA|-da-gan 
-mu us2-sa e2 |PU3.SZA|-da-gan ba-du3 
-mu us2-sa e2 |PU3.SZA|-da-gan ba-du3 mu a-ra2 2(disz)-kam 
-mu us2-sa e2 |PU3.SZA|-da-gan ba-du3-a-ta 
-mu us2-sa e2 |PU3.SZA|-da-gan mu us2-sa-ba mu us2-sa-a-bi 
-mu us2-sa e2 |PU3.SZA|-da-gan mu us2-sa-bi 
-mu us2-sa e2 |PU3.SZA|-isz-da-gan ba-du3 
-mu us2-sa e2 |PU3.SZA|-isz-{d}da-gan ba-du3 
-mu us2-sa e2 |PU3.SZA|-isz-{d}da-gan ba-du3 mu us2-sa-bi 
-mu us2-sa e2 |PU3.SZA|-isz:{d}da-gan ba-du3 mu us2-sa-bi-ta 
-mu us2-sa e2 |PU3.SZA|-{d}da-<gan> mu us2-sa-a-ba mu us2-sa-a-bi 
-mu us2-sa e2 |PU3.SZA|-{d}da-gan ba-du3 mu us2-sa 2(disz)-kam 
+	mu us2-sa e2 
+	mu us2-sa e2 PU3 mu us2-sa-bi 
+	mu us2-sa e2 ba-du-a mu us2-sa-bi 
+	mu us2-sa e2 mu us2-sa-a-bi 
+	mu us2-sa e2 mu us2-sa-bi 
+	mu us2-sa e2 |PU3.SZA| mu us2-sa-a-ba mu us2-sa-a-bi 
+	mu us2-sa e2 |PU3.SZA|-da-gan 
+	mu us2-sa e2 |PU3.SZA|-da-gan ba-du3 
+	mu us2-sa e2 |PU3.SZA|-da-gan ba-du3 mu a-ra2 2(disz)-kam 
+	mu us2-sa e2 |PU3.SZA|-da-gan ba-du3-a-ta 
+	mu us2-sa e2 |PU3.SZA|-da-gan mu us2-sa-ba mu us2-sa-a-bi 
+	mu us2-sa e2 |PU3.SZA|-da-gan mu us2-sa-bi 
+	mu us2-sa e2 |PU3.SZA|-isz-da-gan ba-du3 
+	mu us2-sa e2 |PU3.SZA|-isz-{d}da-gan ba-du3 
+	mu us2-sa e2 |PU3.SZA|-isz-{d}da-gan ba-du3 mu us2-sa-bi 
+	mu us2-sa e2 |PU3.SZA|-isz:{d}da-gan ba-du3 mu us2-sa-bi-ta 
+	mu us2-sa e2 |PU3.SZA|-{d}da-<gan> mu us2-sa-a-ba mu us2-sa-a-bi 
+	mu us2-sa e2 |PU3.SZA|-{d}da-gan ba-du3 mu us2-sa 2(disz)-kam 
 mu us2-sa e2-a mu us2-sa-ba mu us2-sa-bi 
 mu us2-sa en ($ blank space $) 
 mu us2-sa en eridu{ki} ba-hun 
-mu us2-sa en inanna ba-hun 
-mu us2-sa en {d}inanna ba-a-hun 
-mu us2-sa en {d}inanna ba-hun 
-mu us2-sa en {d}inanna ba-hun# 
-mu us2-sa en# {d}inanna ba-hun# 
-mu us2-sa en#-unu6-gal [{d}inanna unu{ki}] ba-hun 
-mu us2-sa en-unu6 
-mu us2-sa en-unu6!(TE)-gal 
-mu us2-sa en-unu6#-gal {d}inanna# [ba-hun] 
-mu us2-sa en-unu6-gal 
-mu us2-sa en-unu6-gal an-na [{d}nanna] ba-hun 
-mu us2-sa en-unu6-gal an-na {d}nanna ba-hun 
-mu us2-sa en-unu6-gal ba-hun 
-mu us2-sa en-unu6-gal en {d}inanna ba-hun 
-mu us2-sa en-unu6-gal x ba-<hun> 
-mu us2-sa en-unu6-gal {d}inanna 
-mu us2-sa en-unu6-gal {d}inanna [...] 
-mu us2-sa en-unu6-gal {d}inanna ba#-hun# 
-mu us2-sa en-unu6-gal {d}inanna ba-<hun> 
-mu us2-sa en-unu6-gal {d}inanna ba-du3 
-mu us2-sa en-unu6-gal {d}inanna ba-hun
-mu us2-sa en-unu6-gal {d}inanna ba-hun 
-mu us2-sa en-unu6-gal {d}inanna# 
-mu us2-sa en-unu6-gal {d}nanna ba-hun 
-mu us2-sa en-unu6-gal-an-[na ba]-hun 
-mu us2-sa en-unu?-gal {d}inanna ba-hun 
+	mu us2-sa en inanna ba-hun 
+	mu us2-sa en {d}inanna ba-a-hun 
+	mu us2-sa en {d}inanna ba-hun 
+	mu us2-sa en {d}inanna ba-hun# 
+	mu us2-sa en# {d}inanna ba-hun# 
+	mu us2-sa en#-unu6-gal [{d}inanna unu{ki}] ba-hun 
+	mu us2-sa en-unu6 
+	mu us2-sa en-unu6!(TE)-gal 
+	mu us2-sa en-unu6#-gal {d}inanna# [ba-hun] 
+	mu us2-sa en-unu6-gal 
+	mu us2-sa en-unu6-gal an-na [{d}nanna] ba-hun 
+	mu us2-sa en-unu6-gal an-na {d}nanna ba-hun 
+	mu us2-sa en-unu6-gal ba-hun 
+	mu us2-sa en-unu6-gal en {d}inanna ba-hun 
+	mu us2-sa en-unu6-gal x ba-<hun> 
+	mu us2-sa en-unu6-gal {d}inanna 
+	mu us2-sa en-unu6-gal {d}inanna [...] 
+	mu us2-sa en-unu6-gal {d}inanna ba#-hun# 
+	mu us2-sa en-unu6-gal {d}inanna ba-<hun> 
+	mu us2-sa en-unu6-gal {d}inanna ba-du3 
+	mu us2-sa en-unu6-gal {d}inanna ba-hun
+	mu us2-sa en-unu6-gal {d}inanna ba-hun 
+	mu us2-sa en-unu6-gal {d}inanna# 
+	mu us2-sa en-unu6-gal {d}nanna ba-hun 
+	mu us2-sa en-unu6-gal-an-[na ba]-hun 
+	mu us2-sa en-unu?-gal {d}inanna ba-hun 
 mu us2-sa ki-masz{ki} 
 mu us2-sa ki-masz{ki} ba-hul 
 mu us2-sa ki-masz{ki} mu us2-sa-a-bi# 
@@ -589,71 +589,71 @@ mu us2-sa |PU3.SZA|-isz-{d}da-gan ba-du3
 mu x [...] 
 mu x x x 
 mu x-[x]-x{ki} ba-hul 
-mu {d}<amar>-{d}suen lugal-e sza-asz-szu2-ru-um{ki} mu-hul 
-mu {d}[amar-{d}]suen lugal-e sza-[asz]-ru#{ki} mu-hul 
-mu {d}amar#-{d}suen# lugal-e sza-asz-szu2-<ru>-um{ki} mu-hul 
-mu {d}amar-suen lugal sza-asz-ru[{ki}] mu-hul 
-mu {d}amar-{d#}suen# [lugal] 
-mu {d}amar-{d}suen [lugal-e] sza-asz-ru{ki} mu-hul 
-mu {d}amar-{d}suen lugal 
-mu {d}amar-{d}suen lugal <sza>-asz-szu2-ru ba-hul 
-mu {d}amar-{d}suen lugal sza-<...> 
-mu {d}amar-{d}suen lugal sza-asz-rum mu-hul 
-mu {d}amar-{d}suen lugal sza-asz-ru{ki} ba-hul 
-mu {d}amar-{d}suen lugal sza-asz-ru{ki} mu-hul 
-mu {d}amar-{d}suen lugal sza-asz-szu2 mu-hul 
-mu {d}amar-{d}suen lugal sza-asz-szu2-ru-um mu-hul 
-mu {d}amar-{d}suen lugal sza-asz-szu2-ru-um{ki} mu-hul 
-mu {d}amar-{d}suen lugal sza3-szu2-<ru>-um mu-hul 
-mu {d}amar-{d}suen lugal ur-bi2-lum{ki} 
-mu {d}amar-{d}suen lugal#-[e] sza-asz-ru{ki} mu#-[hul] 
-mu {d}amar-{d}suen lugal-<e> sza-asz-szu2-<rum{ki}> mu-hul 
-mu {d}amar-{d}suen lugal-e 
-mu {d}amar-{d}suen lugal-e [sza-asz-ru-um]{ki} [ba-hul] 
-mu {d}amar-{d}suen lugal-e sza-asz-ru mu-hul 
-mu {d}amar-{d}suen lugal-e sza-asz-ru-um ba-hul 
-mu {d}amar-{d}suen lugal-e sza-asz-ru-um mu-hul 
-mu {d}amar-{d}suen lugal-e sza-asz-ru-um{ki} mu-hul 
-mu {d}amar-{d}suen lugal-e sza-asz-ru?-um{ki} mu-hul 
-mu {d}amar-{d}suen lugal-e sza-asz-ru{ki} [mu-hul] 
-mu {d}amar-{d}suen lugal-e sza-asz-ru{ki} ba#-hul-a 
-mu {d}amar-{d}suen lugal-e sza-asz-ru{ki} mu-hul 
-mu {d}amar-{d}suen lugal-e sza-asz-szu-ru-um{ki} mu-hul 
-mu {d}amar-{d}suen lugal-e sza-asz-szu2-ru-um{ki} ba-hul 
-mu {d}amar-{d}suen lugal-e sza-asz-szu2-ru-um{ki} mu-[hul] 
-mu {d}amar-{d}suen lugal-e sza-asz-szu2-ru-um{ki} mu-hul 
-mu {d}amar-{d}suen lugal-e sza-asz-szu2-ru-um{ki} mu-hul-ta 
-mu {d}amar-{d}suen lugal-e sza-asz-szu2-ru{ki#} ba-hul 
-mu {d}amar-{d}suen lugal-e sza-asz?-ru{ki} mu-hul 
-mu {d}amar-{d}suen lugal-e sza-szu2-ru-um mu-hul 
-mu {d}amar-{d}suen lugal-e sza-szu2-ru-um{ki} mu-hul 
-mu {d}amar-{d}suen lugal-e ur-bi2-lum mu-hul 
-mu {d}amar-{d}suen lugal-e ur-bi2-lum[{ki} mu-hul] 
-mu {d}amar-{d}suen lugal-e ur-bi2-lum{ki} mu-hul 
-mu {d}amar-{d}suen lugal-ta 
-mu {d}amar-{d}suen lugal-ta mu en-mah-gal-an-na ba-hun-sze3 
-mu {d}amar-{d}suen sza-asz-<ru{ki}> mu-hul 
-mu {d}amar-{d}suen sza-asz-ru!-um{ki#} mu-hul 
-mu {d}amar-{d}suen sza-asz-ru-um 
-mu {d}amar-{d}suen sza-asz-ru-um{ki} mu-hul 
-mu {d}amar-{d}suen sza-asz-ru{ki} mu-hul 
-mu {d}amar-{d}suen sza-asz-szu2 mu-hul 
-mu {d}amar-{d}suen sza-asz-szu2-ru-um mu-hul 
-mu {d}amar-{d}suen sza-asz-szu2-ru-um{ki} mu-hul 
-mu {d}amar-{d}suen sza-asz-szu2-ru{ki} mu-hul 
-mu {d}amar-{d}suen sza-asz-szu2{ki} mu-hul 
-mu {d}amar-{d}suen sza3-ru mu-hul 
-mu {d}amar-{d}suen# lugal-e ur-bi2-[lum{ki} mu-hul] 
-mu {d}amar-{d}suen#-[ke4] sza#-asz-szu2-ru-um{ki} mu-hul 
-mu {d}amar-{d}suen-ke4 sza-asz-ru mu-hul 
-mu {d}amar-{d}suen-ke4 sza-asz-ru-um mu-hul 
-mu {d}amar-{d}suen-ke4 sza-asz-ru-um{ki} ba-hul 
-mu {d}amar-{d}suen-ke4 sza-asz-ru-um{ki} mu-hul 
-mu {d}amar-{d}suen-ke4 sza-asz-szu2-<ru>-um{ki} mu-hul 
-mu {d}amar-{d}suen-ke4 sza-asz-szu2-ru-um{ki} mu-hul 
-mu {d}amar-{d}suen-ke4 sza3-szu2-ru-um{ki} ba-hul 
-mu {d}amar-{d}suen-ke4 ur-bi2-lum{ki} 
-mu {d}amar-{d}suen-ke4 ur-bi2-lum{ki} mu-hul 
+	mu {d}<amar>-{d}suen lugal-e sza-asz-szu2-ru-um{ki} mu-hul 
+	mu {d}[amar-{d}]suen lugal-e sza-[asz]-ru#{ki} mu-hul 
+	mu {d}amar#-{d}suen# lugal-e sza-asz-szu2-<ru>-um{ki} mu-hul 
+	mu {d}amar-suen lugal sza-asz-ru[{ki}] mu-hul 
+	mu {d}amar-{d#}suen# [lugal] 
+	mu {d}amar-{d}suen [lugal-e] sza-asz-ru{ki} mu-hul 
+	mu {d}amar-{d}suen lugal 
+	mu {d}amar-{d}suen lugal <sza>-asz-szu2-ru ba-hul 
+	mu {d}amar-{d}suen lugal sza-<...> 
+	mu {d}amar-{d}suen lugal sza-asz-rum mu-hul 
+	mu {d}amar-{d}suen lugal sza-asz-ru{ki} ba-hul 
+	mu {d}amar-{d}suen lugal sza-asz-ru{ki} mu-hul 
+	mu {d}amar-{d}suen lugal sza-asz-szu2 mu-hul 
+	mu {d}amar-{d}suen lugal sza-asz-szu2-ru-um mu-hul 
+	mu {d}amar-{d}suen lugal sza-asz-szu2-ru-um{ki} mu-hul 
+	mu {d}amar-{d}suen lugal sza3-szu2-<ru>-um mu-hul 
+	mu {d}amar-{d}suen lugal ur-bi2-lum{ki} 
+	mu {d}amar-{d}suen lugal#-[e] sza-asz-ru{ki} mu#-[hul] 
+	mu {d}amar-{d}suen lugal-<e> sza-asz-szu2-<rum{ki}> mu-hul 
+	mu {d}amar-{d}suen lugal-e 
+	mu {d}amar-{d}suen lugal-e [sza-asz-ru-um]{ki} [ba-hul] 
+	mu {d}amar-{d}suen lugal-e sza-asz-ru mu-hul 
+	mu {d}amar-{d}suen lugal-e sza-asz-ru-um ba-hul 
+	mu {d}amar-{d}suen lugal-e sza-asz-ru-um mu-hul 
+	mu {d}amar-{d}suen lugal-e sza-asz-ru-um{ki} mu-hul 
+	mu {d}amar-{d}suen lugal-e sza-asz-ru?-um{ki} mu-hul 
+	mu {d}amar-{d}suen lugal-e sza-asz-ru{ki} [mu-hul] 
+	mu {d}amar-{d}suen lugal-e sza-asz-ru{ki} ba#-hul-a 
+	mu {d}amar-{d}suen lugal-e sza-asz-ru{ki} mu-hul 
+	mu {d}amar-{d}suen lugal-e sza-asz-szu-ru-um{ki} mu-hul 
+	mu {d}amar-{d}suen lugal-e sza-asz-szu2-ru-um{ki} ba-hul 
+	mu {d}amar-{d}suen lugal-e sza-asz-szu2-ru-um{ki} mu-[hul] 
+	mu {d}amar-{d}suen lugal-e sza-asz-szu2-ru-um{ki} mu-hul 
+	mu {d}amar-{d}suen lugal-e sza-asz-szu2-ru-um{ki} mu-hul-ta 
+	mu {d}amar-{d}suen lugal-e sza-asz-szu2-ru{ki#} ba-hul 
+	mu {d}amar-{d}suen lugal-e sza-asz?-ru{ki} mu-hul 
+	mu {d}amar-{d}suen lugal-e sza-szu2-ru-um mu-hul 
+	mu {d}amar-{d}suen lugal-e sza-szu2-ru-um{ki} mu-hul 
+	mu {d}amar-{d}suen lugal-e ur-bi2-lum mu-hul 
+	mu {d}amar-{d}suen lugal-e ur-bi2-lum[{ki} mu-hul] 
+	mu {d}amar-{d}suen lugal-e ur-bi2-lum{ki} mu-hul 
+	mu {d}amar-{d}suen lugal-ta 
+	mu {d}amar-{d}suen lugal-ta mu en-mah-gal-an-na ba-hun-sze3 
+	mu {d}amar-{d}suen sza-asz-<ru{ki}> mu-hul 
+	mu {d}amar-{d}suen sza-asz-ru!-um{ki#} mu-hul 
+	mu {d}amar-{d}suen sza-asz-ru-um 
+	mu {d}amar-{d}suen sza-asz-ru-um{ki} mu-hul 
+	mu {d}amar-{d}suen sza-asz-ru{ki} mu-hul 
+	mu {d}amar-{d}suen sza-asz-szu2 mu-hul 
+	mu {d}amar-{d}suen sza-asz-szu2-ru-um mu-hul 
+	mu {d}amar-{d}suen sza-asz-szu2-ru-um{ki} mu-hul 
+	mu {d}amar-{d}suen sza-asz-szu2-ru{ki} mu-hul 
+	mu {d}amar-{d}suen sza-asz-szu2{ki} mu-hul 
+	mu {d}amar-{d}suen sza3-ru mu-hul 
+	mu {d}amar-{d}suen# lugal-e ur-bi2-[lum{ki} mu-hul] 
+	mu {d}amar-{d}suen#-[ke4] sza#-asz-szu2-ru-um{ki} mu-hul 
+	mu {d}amar-{d}suen-ke4 sza-asz-ru mu-hul 
+	mu {d}amar-{d}suen-ke4 sza-asz-ru-um mu-hul 
+	mu {d}amar-{d}suen-ke4 sza-asz-ru-um{ki} ba-hul 
+	mu {d}amar-{d}suen-ke4 sza-asz-ru-um{ki} mu-hul 
+	mu {d}amar-{d}suen-ke4 sza-asz-szu2-<ru>-um{ki} mu-hul 
+	mu {d}amar-{d}suen-ke4 sza-asz-szu2-ru-um{ki} mu-hul 
+	mu {d}amar-{d}suen-ke4 sza3-szu2-ru-um{ki} ba-hul 
+	mu {d}amar-{d}suen-ke4 ur-bi2-lum{ki} 
+	mu {d}amar-{d}suen-ke4 ur-bi2-lum{ki} mu-hul 
 mu {d}ba-ba6-lu2-a-sa6 dam ARAD2-sze3 
 mu {d}ba-ba6-lu2-a-sa6-sze3 
 mu {d}en-mah-gal-an-na-sze3 
@@ -670,8 +670,8 @@ mu {d}szul-gi dingir kalam-ma-ke4 sza-szu2-ru-um{ki} mu-hul
 mu {gesz}gu-za ba-dim2 
 mu {gesz}gu-za {d}en-lil2-la2 ba-dim2 
 mu {uruda}ha-bu3-da e2-gal 
-mu# [sza-asz-ru]-um{ki} [... a]-ra2 [n-kam ba-hul] 
-mu# [{d}]amar#-{d#}suen# lugal#-e# sza#-[asz]-ru#-um mu-hul 
+	mu# [sza-asz-ru]-um{ki} [... a]-ra2 [n-kam ba-hul] 
+	mu# [{d}]amar#-{d#}suen# lugal#-e# sza#-[asz]-ru#-um mu-hul 
 mu# [{d}]nanna# kar-zi-da 
 mu# a-[ra2 2(disz)-kam] sza-asz-ru-um{ki} ba-hul 
 mu# an-sza-an{ki} ba-hul 
@@ -682,36 +682,36 @@ mu# en {d}nanna masz#-e i3-pa3-sze3
 mu# en# eridu[{ki} ba-hun] 
 mu# en# ga#-esz5#{ki} 
 mu# en-mah-gal-an-na-ta 
-mu# en-unu6-gal {d}inanna unu{ki} ba-hun 
+	mu# en-unu6-gal {d}inanna unu{ki} ba-hun 
 mu# si#-[mu-ru-um]{ki} lu-lu-bum2{ki} [a-ra2 1(u) la2 1(asz@45)-kam-asz] ba#-hul# 
 mu# si-ma-num2{ki#} ba-hul 
 mu# si-mu-ru-um{ki} 
-mu# sza#-asz-<<asz>>-szu2-ru 
-mu# sza#-asz-ru# ba-hul# 
-mu# sza#-asz-ru-um[{ki} ba]-hul# 
-mu# sza#-asz-ru-um{ki#} ba-hul
-mu# sza#-asz-ru{ki#} ba-hul 
-mu# sza#-asz-szu2-ru-um<{ki}> a-ra2 2(disz)-kam ba-hul 
-mu# sza#-asz-szu2-ru-um{ki} ba-hul 
-mu# sza-asz-ru#{ki#} a-[ra2 x-kam ba]-hul 
-mu# sza-asz-ru-um ba-hul 
-mu# sza-asz-ru-um{ki} [ba]-hul# 
-mu# sza-asz-ru-um{ki} ba#-hul 
-mu# sza-asz-ru-um{ki} ba#-hul-sze3 
-mu# sza-asz-ru-um{ki} ba-hul 
-mu# sza-asz-ru{ki} 
-mu# sza-asz-ru{ki} [a]-ra2# 2(disz)-kam ba-hul 
-mu# sza-asz-ru{ki} a-ra2# 2(disz)-kam ba-hul 
-mu# sza-asz-ru{ki} ba#-hul# 
-mu# sza-asz-ru{ki} ba-hul 
-mu# sza-asz-szu2-ru-um{ki} [a]-ra2# 2(disz)-kam ba-hul 
-mu# sza-asz-szu2-ru-um{ki} ba-hul 
-mu# sza-asz-szu2-ru{ki} ba#-hul# 
-mu# us2# en# {d}inanna ba-hun-ga2 
-mu# us2#-sa# e2# |PU3.SZA| mu# us2#-sa#-a-bi 
-mu# us2-sa e2 |PU3.SZA|-{d}da-gan ba-du3 
-mu# us2-sa en-unu6-gal {d}inanna ba-hun 
-mu# {d}amar#-{d#}suen# lugal#-e# sza-[asz-ru-um{ki} ...] mu#-[hul] 
-mu# {d}szu-{d}suen lugal 
-mu#!-[lugal ...] 
+	mu# sza#-asz-<<asz>>-szu2-ru 
+	mu# sza#-asz-ru# ba-hul# 
+	mu# sza#-asz-ru-um[{ki} ba]-hul# 
+	mu# sza#-asz-ru-um{ki#} ba-hul
+	mu# sza#-asz-ru{ki#} ba-hul 
+	mu# sza#-asz-szu2-ru-um<{ki}> a-ra2 2(disz)-kam ba-hul 
+	mu# sza#-asz-szu2-ru-um{ki} ba-hul 
+	mu# sza-asz-ru#{ki#} a-[ra2 x-kam ba]-hul 
+	mu# sza-asz-ru-um ba-hul 
+	mu# sza-asz-ru-um{ki} [ba]-hul# 
+	mu# sza-asz-ru-um{ki} ba#-hul 
+	mu# sza-asz-ru-um{ki} ba#-hul-sze3 
+	mu# sza-asz-ru-um{ki} ba-hul 
+	mu# sza-asz-ru{ki} 
+	mu# sza-asz-ru{ki} [a]-ra2# 2(disz)-kam ba-hul 
+	mu# sza-asz-ru{ki} a-ra2# 2(disz)-kam ba-hul 
+	mu# sza-asz-ru{ki} ba#-hul# 
+	mu# sza-asz-ru{ki} ba-hul 
+	mu# sza-asz-szu2-ru-um{ki} [a]-ra2# 2(disz)-kam ba-hul 
+	mu# sza-asz-szu2-ru-um{ki} ba-hul 
+	mu# sza-asz-szu2-ru{ki} ba#-hul# 
+	mu# us2# en# {d}inanna ba-hun-ga2 
+	mu# us2#-sa# e2# |PU3.SZA| mu# us2#-sa#-a-bi 
+	mu# us2-sa e2 |PU3.SZA|-{d}da-gan ba-du3 
+	mu# us2-sa en-unu6-gal {d}inanna ba-hun 
+	mu# {d}amar#-{d#}suen# lugal#-e# sza-[asz-ru-um{ki} ...] mu#-[hul] 
+	mu# {d}szu-{d}suen lugal 
+	mu#!-[lugal ...] 
 mu#-kux(DU) 
